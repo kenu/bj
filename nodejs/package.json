@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "baekjun",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
